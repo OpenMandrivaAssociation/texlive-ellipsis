@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-ellipsis
 Version:	20070102
-Release:	1
+Release:	2
 Summary:	Fix uneven spacing around ellipses in LaTeX text mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ellipsis
