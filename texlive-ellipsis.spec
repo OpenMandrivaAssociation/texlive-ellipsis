@@ -3,7 +3,7 @@ Version:	55418
 Release:	2
 Summary:	Fix uneven spacing around ellipses in LaTeX text mode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ellipsis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ellipsis
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ellipsis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ellipsis.doc.r%{version}.tar.xz
